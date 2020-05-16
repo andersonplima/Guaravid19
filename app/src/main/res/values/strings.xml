@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guaravid 19</string>
+    <string name="tituloCadastroPaciente">Cadastro de paciente</string>
+    <string name="incluir">Incluir</string>
+    <string name="listar">Listar</string>
+    <string name="alterar">Alterar</string>
+    <string name="excluir">Excluir</string>
+</resources>
